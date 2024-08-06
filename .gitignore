@@ -134,3 +134,12 @@ dmypy.json
 
 # .DS_Store files
 .DS_Store
+
+# CNCF Lora
+lora/cncf/qa.csv
+lora/cncf/train.jsonl
+lora/cncf/valid.jsonl
+lora/cncf/test.jsonl
+
+# Fused
+lora/lora_fused_model/
